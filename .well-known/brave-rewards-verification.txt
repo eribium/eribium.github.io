@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: eribium.github.io
+Token: f06db6365fa6fac76254516ab0f4fbffc3fb2fe793b3a58358991ddcc5c94cb7
